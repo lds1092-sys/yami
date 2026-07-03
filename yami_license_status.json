@@ -1,7 +1,7 @@
 {
   "schema": "YAMI_HYBRID_STATUS_V1",
   "generated_by": "야미 라이선스 관리자 V3.3.0",
-  "updated_at": "2026-07-04 01:02:43",
+  "updated_at": "2026-07-04 01:03:54",
   "mode": "offline_plus_online_status_file",
   "licenses": {
     "YAMI-6160-897F-FD4A-64E8": {
@@ -20,10 +20,10 @@
       "license_type": "기간제",
       "expire": "정지",
       "app_version": "V6.1.0",
-      "usage_limit": "무제한",
-      "issued_at": "2026-07-04 01:01:47",
+      "usage_limit": "정지",
+      "issued_at": "2026-07-04 01:03:35",
       "memo": ""
     }
   },
-  "signature": "D87AC95D47ADDA315CEADBE089E4B380CA90F2DC41209B973CFCE562360CAE53"
+  "signature": "11635D5B91A437175AC4AF08AFF947F9002C15E28607290D37058B071C979C95"
 }
