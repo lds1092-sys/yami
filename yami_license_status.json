@@ -1,7 +1,7 @@
 {
   "schema": "YAMI_HYBRID_STATUS_V1",
   "generated_by": "야미 라이선스 관리자 V3.4.0",
-  "updated_at": "2026-07-04 08:17:39",
+  "updated_at": "2026-07-04 12:43:50",
   "mode": "offline_plus_online_status_file",
   "licenses": {
     "YAMI-6160-897F-FD4A-64E8": {
@@ -25,5 +25,5 @@
       "memo": ""
     }
   },
-  "signature": "3977928F7B70155204F72293199AB63F56F9CA9E40F7FD9CACC620C611F61171"
+  "signature": "A3931646B6341A8FDEC2CBF401B505A623F4A729AB7DC614303482A195DCEA28"
 }
