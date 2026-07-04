@@ -1,9 +1,19 @@
 {
   "schema": "YAMI_HYBRID_STATUS_V1",
   "generated_by": "야미 라이선스 관리자 V3.4.0",
-  "updated_at": "2026-07-04 14:55:43",
+  "updated_at": "2026-07-04 15:41:01",
   "mode": "offline_plus_online_status_file",
   "licenses": {
+    "MY-65B8-EA10-F619-B262": {
+      "company": "야미노트북",
+      "status": "정상",
+      "license_type": "무제한",
+      "expire": "PERMANENT",
+      "app_version": "V6.1.1",
+      "usage_limit": "무제한",
+      "issued_at": "2026-07-04 15:37:02",
+      "memo": ""
+    },
     "YAMI-6160-897F-FD4A-64E8": {
       "company": "야미본사",
       "status": "정상",
@@ -25,5 +35,5 @@
       "memo": ""
     }
   },
-  "signature": "A74D93C075FDAC8C06FAC1B31A3A9FDC840CC72C62E169E24DFB164E388BF4D6"
+  "signature": "E4701DB4A94CA81AD0DC8A28095C5B0F3F8AE5913A4523A23C7CB2904322F163"
 }
