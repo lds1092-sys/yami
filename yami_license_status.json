@@ -1,17 +1,17 @@
 {
   "schema": "YAMI_HYBRID_STATUS_V1",
   "generated_by": "야미 라이선스 관리자 V3.4.0",
-  "updated_at": "2026-07-04 16:47:28",
+  "updated_at": "2026-07-04 16:54:03",
   "mode": "offline_plus_online_status_file",
   "licenses": {
     "YAMI-65B8-EA10-F619-B262": {
       "company": "야미노트북",
       "status": "정상",
-      "license_type": "무제한",
-      "expire": "PERMANENT",
+      "license_type": "기간제",
+      "expire": "2026-07-30",
       "app_version": "V6.1.1",
       "usage_limit": "무제한",
-      "issued_at": "2026-07-04 16:47:10",
+      "issued_at": "2026-07-04 16:53:48",
       "memo": ""
     },
     "YAMI-6160-897F-FD4A-64E8": {
@@ -35,5 +35,5 @@
       "memo": ""
     }
   },
-  "signature": "F4E3108E3FB9B3A63C91254E143917D9B8D7D953BEDD6BB3DC5CB285E5EF794B"
+  "signature": "CA4BC82CE3374A1DCC840661D26561A99D4C9B04A973C6096D0622C23AA1AD09"
 }
