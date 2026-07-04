@@ -1,7 +1,7 @@
 {
   "schema": "YAMI_HYBRID_STATUS_V1",
   "generated_by": "야미 라이선스 관리자 V3.4.0",
-  "updated_at": "2026-07-04 12:44:10",
+  "updated_at": "2026-07-04 12:48:06",
   "mode": "offline_plus_online_status_file",
   "licenses": {
     "YAMI-6160-897F-FD4A-64E8": {
@@ -16,14 +16,14 @@
     },
     "YAMI-5986-92DA-D429-D5BB": {
       "company": "이영미니집",
-      "status": "정지",
-      "license_type": "무제한",
-      "expire": "없음",
+      "status": "정상",
+      "license_type": "기간제",
+      "expire": "2026-07-30",
       "app_version": "V6.1.0",
-      "usage_limit": "무제한",
-      "issued_at": "2026-07-04 08:16:47",
+      "usage_limit": "기간제",
+      "issued_at": "2026-07-04 12:47:50",
       "memo": ""
     }
   },
-  "signature": "87BC64DD585948B65B50119E3CB43F5AFA46B7B8A893C7E2561F2E8CA8AB934E"
+  "signature": "E5B0372D10543CBAC1EC751B667C3A79E8C507889178FD0733300A15FAA9F19E"
 }
