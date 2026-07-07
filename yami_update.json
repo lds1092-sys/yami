@@ -1,12 +1,11 @@
 {
-  "schema": "YAMI_UPDATE_MANIFEST_V1",
-  "latest_version": "V6.5.0",
-  "min_required_version": "V6.4.0",
+  "latest_version": "V7.0.0",
+  "min_required_version": "V6.3.3",
   "required": false,
-  "file_name": "YamiQuickManager_PRO_V6_5_0.exe",
-  "download_url": "https://github.com/lds1092-sys/yami/releases/download/V6.5.0/YamiQuickManager_PRO_V6_5_0.exe",
-  "release_url": "https://github.com/lds1092-sys/yami/releases",
+  "file_name": "YAMI_QuickManager_PRO_V7.0.0.exe",
+  "download_url": "https://github.com/lds1092-sys/yami/releases/download/V7.0.0/YAMI_QuickManager_PRO_V7.0.0.exe",
   "sha256": "",
-  "published_at": "2026-07-04 22:20:00",
-  "notes": "V6.5.0 업데이트\n\n- 안전형 업데이트 다운로드 기능 추가\n- SHA256 검증 지원\n- 필수 업데이트/선택 업데이트 구분\n- 시작 시 자동 업데이트 확인 기본 사용\n- SSL 인증서 오류 환경에서도 1회 호환 재시도\n\n※ sha256 값은 EXE 빌드 후 계산해서 입력하세요. 비워두면 검증 없이 다운로드 안내만 진행됩니다."
+  "message": "V7.0 자동 업데이트 완성판이 출시되었습니다. 업데이트를 권장합니다.",
+  "notes": "- 자동 업데이트 적용/재시작 지원\n- 필수/선택 업데이트 지원\n- SHA256 검증 지원\n- 온라인 라이선스 및 사용기록 기능 유지",
+  "generated_by": "야미 라이선스 관리자 V3.7.0"
 }
