@@ -4,8 +4,8 @@
   "required": false,
   "file_name": "야미퀵매니저PRO.exe",
   "download_url": "https://github.com/lds1092-sys/yami/releases/download/V7.1.9/YAMI_QuickManager_PRO.exe",
-  "sha256": "3100C94D67C9A9A4DA343B37C42ED7EFA23B941D24B50C67D8A533FF299EBD58",
+  "sha256": "82BA80F64FBF73FFD3626CD613B202163C7C365B6DD43ADA74917BC62D3EF03E",
   "message": "V7.1.9 업데이트 테스트 버전이 출시되었습니다. 업데이트를 권장합니다.",
-  "generated_at": "2026-07-14 18:51:29",
+  "generated_at": "2026-07-14 18:57:35",
   "generated_by": "야미 라이선스 관리자 V3.8.3"
 }
