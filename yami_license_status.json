@@ -1,17 +1,17 @@
 {
   "schema": "YAMI_HYBRID_STATUS_V1",
   "generated_by": "야미 라이선스 관리자 V3.8.3",
-  "updated_at": "2026-07-15 09:56:15",
+  "updated_at": "2026-07-15 18:54:59",
   "mode": "offline_plus_online_status_file",
   "licenses": {
     "YAMI-65B8-EA10-F619-B262": {
       "company": "야미노트북",
       "status": "정상",
-      "license_type": "기간제",
-      "expire": "2027-07-30",
+      "license_type": "무제한",
+      "expire": "PERMANENT",
       "app_version": "V6.1.1",
       "usage_limit": "무제한",
-      "issued_at": "2026-07-07 20:17:40",
+      "issued_at": "2026-07-15 18:54:15",
       "memo": ""
     },
     "YAMI-6160-897F-FD4A-64E8": {
@@ -34,6 +34,16 @@
       "issued_at": "2026-07-15 09:40:03",
       "memo": ""
     },
+    "YAMI-F926-F950-F038-6BC3": {
+      "company": "이상민회사",
+      "status": "정상",
+      "license_type": "기간제",
+      "expire": "2027-07-15",
+      "app_version": "V7.3",
+      "usage_limit": "기간제",
+      "issued_at": "2026-07-15 14:42:37",
+      "memo": ""
+    },
     "YAMI-5986-92DA-D429-D5BB": {
       "company": "이영미니집",
       "status": "정상",
@@ -45,5 +55,5 @@
       "memo": ""
     }
   },
-  "signature": "C226EEC833DB1D1EB10FC65B20996F0371C210028EF053693473F426C675DB78"
+  "signature": "6A56F7209696DE9497A9352510F944ABC5845358817B8F3FC48EDDF7DF67FB6F"
 }
