@@ -1,7 +1,7 @@
 {
   "schema": "YAMI_HYBRID_STATUS_V1",
   "generated_by": "야미 라이선스 관리자 V4.0.0",
-  "updated_at": "2026-08-14 19:44:50",
+  "updated_at": "2026-08-14 20:10:20",
   "mode": "offline_plus_online_status_file",
   "licenses": {
     "YAMI-65B8-EA10-F619-B262": {
@@ -38,10 +38,10 @@
       "company": "이상민집",
       "status": "정상",
       "license_type": "기간제",
-      "expire": "20270814",
+      "expire": "2027-08-14",
       "app_version": "V6.1.1",
       "usage_limit": "무제한",
-      "issued_at": "2026-08-14 19:43:41",
+      "issued_at": "2026-08-14 20:10:07",
       "memo": ""
     },
     "YAMI-F926-F950-F038-6BC3": {
@@ -65,5 +65,5 @@
       "memo": ""
     }
   },
-  "signature": "23CF3FC24FD7CEE11DC7ACEAFAA57FFF35B7B0C29742799910A7E75F1E4741D5"
+  "signature": "E5B49D221B29D085393A8F13543754E921D3A5745B088959F09FDE6D5C78D0FD"
 }
