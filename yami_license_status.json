@@ -1,7 +1,7 @@
 {
   "schema": "YAMI_HYBRID_STATUS_V1",
-  "generated_by": "야미 라이선스 관리자 V3.8.3",
-  "updated_at": "2026-07-15 18:54:59",
+  "generated_by": "야미 라이선스 관리자 V4.0.0",
+  "updated_at": "2026-08-14 14:19:29",
   "mode": "offline_plus_online_status_file",
   "licenses": {
     "YAMI-65B8-EA10-F619-B262": {
@@ -25,13 +25,13 @@
       "memo": ""
     },
     "YAMI-4D9B-FD4A-D6FF-7AFA": {
-      "company": "야미회",
+      "company": "야미회사",
       "status": "정상",
       "license_type": "무제한",
       "expire": "PERMANENT",
       "app_version": "V6.1.1",
       "usage_limit": "무제한",
-      "issued_at": "2026-07-15 09:40:03",
+      "issued_at": "2026-07-17 11:20:59",
       "memo": ""
     },
     "YAMI-F926-F950-F038-6BC3": {
@@ -53,7 +53,17 @@
       "usage_limit": "기간제",
       "issued_at": "2026-07-04 17:26:15",
       "memo": ""
+    },
+    "YAMI-B5C1-8090-A3C0-3344": {
+      "company": "정동욱회사",
+      "status": "정상",
+      "license_type": "기간제",
+      "expire": "2027-08-14",
+      "app_version": "V6.1.1",
+      "usage_limit": "기간제",
+      "issued_at": "2026-08-14 14:16:06",
+      "memo": "정동욱회사"
     }
   },
-  "signature": "6A56F7209696DE9497A9352510F944ABC5845358817B8F3FC48EDDF7DF67FB6F"
+  "signature": "E02469B5884A281113C7BFB34B2F16E5386D8A4145E86D271B35EB4D7E6CA4C0"
 }
