@@ -1,13 +1,13 @@
 {
   "schema": "YAMI_DB_UPDATE_V1",
-  "latest_version": "V1.0.23",
+  "latest_version": "V1.0.24",
   "required": false,
   "force_download": false,
   "file_name": "fare_v2.db",
   "download_url": "https://raw.githubusercontent.com/lds1092-sys/yami/main/fare_v2.db",
-  "sha256": "0EE2DAAD3E964D46DC129DE93D61B71E8DA10E54E2F96D5B6F824959CC827A43",
+  "sha256": "38CA7D8FC3C441CAB3BFB9225BCC61AFB0B3F7124AF4BA6081952B1CC12C9CB4",
   "size_bytes": 3448832,
   "message": "업체요금 DB 업데이트",
-  "generated_at": "2026-11-03 15:58:13",
+  "generated_at": "2026-11-04 11:19:24",
   "generated_by": "야미 라이선스 관리자 V4.0.0"
 }
